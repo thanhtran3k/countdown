@@ -8,10 +8,12 @@
 # Quickstart
 * Install Node.js (6.0 or greater).
 * Download my application to your pc.
+* Open Git Bash.
 * npm init react-app <your-app-name>
 * cd <your-app-name>
 * npm start (to check if it works or not)
-* copy my 'src' and paste it into your project folder.
+* Copy my 'src' and paste it into your project folder.
+* Visit port 3000 on your browser or just wait for seconds the project will open on your browser automatically.
 
 Read the docs of create-react-app
 
