@@ -66,7 +66,6 @@ class App extends Component {
 							this.changeDeadline();
 						}
 					}>Submit</button>
-
 				</div>
 			</div>
 		);
